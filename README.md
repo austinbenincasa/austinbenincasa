@@ -22,7 +22,7 @@
 ## I'm a software engineer
 
 - 🔭 I’m currently working on a Python Stock Market Analysis Framework
-- 🌱 I’m currently learning Pytorch, Scikit, Rust
+- 🌱 I’m currently learning Pytorch, Scikit-learn, Rust
 
 # Socials
 
