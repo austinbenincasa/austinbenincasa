@@ -26,6 +26,10 @@
 
 # Socials
 
-<a href="https://www.linkedin.com/in/austin-benincasa/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
-
-<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/AustinBenincasa">
+<a href="https://www.linkedin.com/in/austin-benincasa/">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp&nbsp
+<a href="https://x.com/AustinBenincasa" alt="X (formerly Twitter) Follow">
+<img alt="X" src="https://img.shields.io/twitter/follow/AustinBenincasa"/>
+</a>
